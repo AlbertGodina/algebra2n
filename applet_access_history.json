@@ -1,0 +1,14 @@
+{
+  "applets": [{
+    "lastAccessTime": "2025-12-16T15:48:34.241212Z",
+    "firstAccessTime": "2025-12-16T15:48:34.241212Z",
+    "source": {
+      "drive": {
+        "resourceId": "1m5SE2uDVGEXhWqtvoG87WXZmpZoVt8vy",
+        "revisionId": "0B5JJVVI27BetSTZFL0p2ZXkrazc5QmdtT29yY2RueDJtNnhnPQ"
+      }
+    },
+    "name": "Algebra Master 2n ESO",
+    "description": "An interactive educational platform for mastering algebraic expressions, monomials, polynomials, and notable identities with practice exercises and exam modes."
+  }]
+}
